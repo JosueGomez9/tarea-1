@@ -1,0 +1,19 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "tarea#1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosueGomez9/tarea-1.git"
+  },
+  "author": "Sergio Osorto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosueGomez9/tarea-1/issues"
+  },
+  "homepage": "https://github.com/JosueGomez9/tarea-1#readme"
+}
